@@ -1,8 +1,8 @@
 {
   "name": "monsters-rolodex",
   "version": "0.1.0",
-  "homepage": "https://IsaiahUreta.github.io/",
   "private": true,
+  "homepage": "https://IsaiahUreta.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -19,6 +19,7 @@
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
